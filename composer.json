@@ -25,6 +25,6 @@
     "respect/validation": "^1.1",
     "google/recaptcha": "^1.2",
     "monolog/monolog": "^1.13",
-    "vlucas/phpdotenv": "^3.6"
+    "vlucas/phpdotenv": "^4.1"
   }
 }
